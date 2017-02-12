@@ -1,0 +1,6 @@
+D:\VS projects\Guanghui.MyMvc\Guanghui.SimpleMvc2\bin\Guanghui.SimpleMvc2.dll.config
+D:\VS projects\Guanghui.MyMvc\Guanghui.SimpleMvc2\bin\Guanghui.SimpleMvc2.dll
+D:\VS projects\Guanghui.MyMvc\Guanghui.SimpleMvc2\bin\Guanghui.SimpleMvc2.pdb
+D:\VS projects\Guanghui.MyMvc\Guanghui.SimpleMvc2\obj\Debug\Guanghui.SimpleMvc2.dll
+D:\VS projects\Guanghui.MyMvc\Guanghui.SimpleMvc2\obj\Debug\Guanghui.SimpleMvc2.pdb
+D:\VS projects\Guanghui.MyMvc\Guanghui.SimpleMvc2\obj\Debug\Guanghui.SimpleMvc2.csprojResolveAssemblyReference.cache
